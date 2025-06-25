@@ -25,7 +25,7 @@ An MBA in Data Analytics candidate, with a focus on solving business problems th
 
 ## 🌍 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/zaid-alfaddagh/))
+- [LinkedIn]([[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/zaid-alfaddagh/)](https://www.linkedin.com/in/zaid-alfaddagh/))
 - [GitHub Projects](https://github.com/zaidfdgh)
 
 Let’s make data work for decisions.
