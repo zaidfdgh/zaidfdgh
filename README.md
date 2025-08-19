@@ -7,7 +7,7 @@ An MBA in Data Analytics candidate, with a focus on solving business problems th
 - 🎓 MBA in Data Analytics (2025) | BSc in Electrical Power & Energy Engineering (2022)
 - 🎯 Passionate about data and clean energy
 - 💻 I work with spreadsheets, SQL databases, and dashboard tools to find patterns that matter
-- 🎣 Also into fishing, soccer, and pickleball when I’m not decoding data
+- 🎣 Also into fishing, soccer, and pickleball when I’m not working on data
 
 ## 🛠 Tools I Use
 
