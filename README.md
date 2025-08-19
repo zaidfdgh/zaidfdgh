@@ -13,7 +13,8 @@ An MBA in Data Analytics candidate, with a focus on solving business problems th
 
 - SQL
 - Google Sheets & Excel
-- Tableau & Power BI (learning)
+- Tableau & Power BI
+- R Studio
 - Python (learning)
 
 ## 📊 What I Build
