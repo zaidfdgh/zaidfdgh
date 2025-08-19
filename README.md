@@ -19,7 +19,7 @@ An MBA in Data Analytics candidate, with a focus on solving business problems th
 
 ## 📊 What I Build
 
-- Churn prediction dashboards  
+- Dashboards  
 - Data-driven decision support models  
 - Clean, human-readable SQL queries  
 - Storytelling visuals with actionable business insights  
