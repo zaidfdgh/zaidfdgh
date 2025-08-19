@@ -31,6 +31,6 @@ An MBA in Data Analytics candidate, with a focus on solving business problems th
 
 Let’s make data work for decisions.
 
-## [![Resume](https://img.shields.io/badge/Resume-PDF-blue)] Resume
+## 📃 Resume
 
-([https://github.com/YourUsername/resume/blob/main/resume.pdf](https://github.com/zaidfdgh/zaidfdgh/blob/main/Zaid%20Al-Faddagh%20Latest%20Resume.pdf))
+(https://github.com/zaidfdgh/zaidfdgh/blob/main/Zaid%20Al-Faddagh%20Latest%20Resume.pdf)
