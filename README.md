@@ -34,4 +34,4 @@ Let’s make data work for decisions.
 
 ## 📃 Resume
 
-- [Resume](https://github.com/zaidfdgh/zaidfdgh/blob/main/Zaid%20Al-Faddagh%20Latest%20Resume.pdf)
+- [Resume](https://github.com/zaidfdgh/zaidfdgh/blob/main/Zaid%20Al-Faddagh%20Resume.pdf)
