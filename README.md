@@ -6,7 +6,6 @@ A Data Analyst with a focus on solving business problems through smart, clean, a
 
 - 🎓 MBA in Data Analytics (2025) | BSc in Electrical Power & Energy Engineering (2022)
 - 🧾 Certified Google Data Analytics Professional (2025)
-- 🎯 Passionate about data and clean energy
 - 💻 I work with data using spreadsheets, SQL, R Studio, and dashboard tools to find patterns that matter
 - 🎣 Also into fishing, soccer, and pickleball when I’m not working on data
 
