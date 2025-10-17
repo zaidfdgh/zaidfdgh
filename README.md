@@ -1,6 +1,6 @@
 # Hi there, I’m Zaid 👋
 
-An MBA in Data Analytics candidate, with a focus on solving business problems through smart, clean, and explainable data work.
+A Data Analyst with a focus on solving business problems through smart, clean, and explainable data work.
 
 ## 💡 About Me
 
